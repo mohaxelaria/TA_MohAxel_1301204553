@@ -1,0 +1,54 @@
+/* Custom CSS untuk mengatur tampilan halaman */
+
+/* Gaya Header */
+header {
+    background-color: #007BFF;
+  }
+  
+  .navbar-light .navbar-nav .nav-link {
+    color: #fff;
+  }
+  
+  .navbar-light .navbar-toggler-icon {
+    background-color: #fff;
+  }
+  
+  /* Gaya Konten Utama */
+  .container {
+    margin-top: 20px;
+  }
+  
+  .jumbotron {
+    background-color: #f8f9fa;
+    padding: 20px;
+  }
+  
+  /* Gaya Tombol */
+  .btn-primary {
+    background-color: #007BFF;
+    border-color: #007BFF;
+  }
+  
+  .btn-primary:hover {
+    background-color: #0056b3;
+    border-color: #0056b3;
+  }
+  
+  /* Gaya Form Submit Suara Jantung */
+  .form-group {
+    margin-top: 20px;
+  }
+  
+  /* Gaya Footer */
+  footer {
+    background-color: #007BFF;
+    padding: 10px;
+    color: #fff;
+    text-align: center;
+  }
+  
+  /* Gaya Pesan Kesalahan */
+  .error-message {
+    color: red;
+  }
+  
